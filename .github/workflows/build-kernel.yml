@@ -11,7 +11,7 @@ on:
       KERNEL_SOURCE_BRANCH:
         description: 'Branch'
         required: true
-        default: 'main'
+        default: '4.19.306'
       KERNEL_DEFCONFIG:
         description: 'Defconfig'
         required: true
